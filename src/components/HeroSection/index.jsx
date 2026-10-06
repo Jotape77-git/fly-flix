@@ -16,7 +16,7 @@ export default function HeroSection() {
                         <button>
                             Browse Movies
                         </button>
-                        <button className={"bg-red-500"}>
+                        <button className={"text-[#0ea5e9] border-[#0ea5e9] bg-[#1d283a]"}>
                             Add Movie
                         </button>
                     </div>
