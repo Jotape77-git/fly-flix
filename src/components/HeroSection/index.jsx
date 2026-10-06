@@ -12,6 +12,9 @@ export default function HeroSection() {
                     <p className="text-lg text-gray-200 mb-8">
                         Discover the best movies all in one place. Stream now, enjoy unlimited entertainment.
                     </p>
+                    <div className="">
+                        
+                    </div>
                 </div>
             </div>
         </section>
