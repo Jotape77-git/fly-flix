@@ -7,7 +7,7 @@ export default function HeroSection() {
             <div className="absolute inset-0 z-20 mx-[100px] flex flex-col justify-center">
                 <div className="max-w-xl animate-fade-in">
                     <h1 className="text-5xl font-bold mb-4 text-white">
-                        Welcome to <span className="text-[#6d28d9]">FLY FLIX</span>gi 
+                        Welcome to <span className="text-[#6d28d9]">FLY FLIX</span> 
                     </h1>
                     <p className="text-lg text-gray-200 mb-8">
                         Discover the best movies all in one place. Stream now, enjoy unlimited entertainment.
