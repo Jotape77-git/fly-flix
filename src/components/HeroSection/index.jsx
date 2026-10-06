@@ -12,8 +12,13 @@ export default function HeroSection() {
                     <p className="text-lg text-gray-200 mb-8">
                         Discover the best movies all in one place. Stream now, enjoy unlimited entertainment.
                     </p>
-                    <div className="">
-                        
+                    <div className="flex gap-4 flex-wrap">
+                        <button>
+                            Browse Movies
+                        </button>
+                        <button className={"bg-red-500"}>
+                            Add Movie
+                        </button>
                     </div>
                 </div>
             </div>
