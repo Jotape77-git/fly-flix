@@ -1,7 +1,11 @@
+import Header from "@/components/Header";
+import HeroSection from "@/components/HeroSection";
+
 export default function Home() {
   return (
-    <div className="">
-      <h1>Ola, Mundo!</h1>
+    <div className="min-h-screen flex flex-col">
+      <Header />
+      <HeroSection />
     </div>
   )
 }
